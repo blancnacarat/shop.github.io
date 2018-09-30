@@ -27,11 +27,18 @@ facebook_url: https://www.facebook.com/blanc.nacarat/
 twitter_url: https://twitter.com/blancnacarat
 instagram_url: https://www.instagram.com/blanc.nacarat/
 
+
+#snipcart key
+api_key: YzkyZTM1ZWUtMDMwYy00M2I0LTliY2YtMTRiMThkZTk0NWUxNjM2NzM4NzM4MzE3OTU2NTIz
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+    - products  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
